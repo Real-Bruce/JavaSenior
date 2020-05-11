@@ -1,313 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4c46275-02c0-43bd-8780-d64c5ac7c1e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnnotationAndEnum/AnnotationAndEnum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnnotationAndEnum/src/com/bruce/java/AnnotationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnnotationAndEnum/src/com/bruce/java/EnumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnnotationAndEnum/src/com/bruce/java/MyAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnnotationAndEnum/src/com/bruce/java/MyAnnotations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnnotationAndEnum/src/com/bruce/java/SeasonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collection/Collection.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collection/src/cn/bruce/exer/Exer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collection/src/cn/bruce/exer/Exer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collection/src/cn/bruce/exer/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collection/src/cn/bruce/exer1/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collection/src/cn/bruce/exer1/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collection/src/cn/bruce/exer1/MyDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collection/src/cn/bruce/java/CollectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collection/src/cn/bruce/java/ForeachTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collection/src/cn/bruce/java/IteratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collection/src/cn/bruce/java/LinkedArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collection/src/cn/bruce/java/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collection/src/cn/bruce/java1/SetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collection/src/cn/bruce/java1/TreeSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collection/src/cn/bruce/java1/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collection/src/cn/bruce/java2/CollectionsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collection/src/cn/bruce/java2/MapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collection/src/cn/bruce/java2/TreeMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collection/src/cn/bruce/java2/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/Generic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/cn/bruce/exer/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/cn/bruce/exer/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/cn/bruce/exer/MyDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/cn/bruce/java/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/cn/bruce/java/DemoInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/cn/bruce/java/GenericTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/cn/bruce/java/GenericTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/cn/bruce/java1/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/cn/bruce/java1/CustomerDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/cn/bruce/java1/DAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/cn/bruce/java1/DAOTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/cn/bruce/java1/Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/cn/bruce/java1/StudentsDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/IO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/data.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/dbcp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/dbcp1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/dbcp_gbk.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/hello.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/hello1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/hello2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/hi.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/cn/bruce/exer/FileDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/cn/bruce/exer/FindJPGFileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/cn/bruce/exer/ListFileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/cn/bruce/exer/PicTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/cn/bruce/exer/WordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/cn/bruce/java/BufferedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/cn/bruce/java/FileCopyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/cn/bruce/java/FileInputOutpytSteam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/cn/bruce/java/FileReaderWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/cn/bruce/java/FileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/cn/bruce/java/InputSteamReaderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/cn/bruce/java/OtherSteam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/cn/bruce/java1/ObjectInputOutSteamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/cn/bruce/java1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/cn/bruce/java1/RandomAccessFileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/cn/bruce/java3/FilesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/cn/bruce/java3/PathTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/test.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/test2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/test3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/test4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/test6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/test_secret.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/wordcount.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDK8API/JDK8API.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDK8API/src/cn/bruce/java/LambdaTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDK8API/src/cn/bruce/java/LambdaTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDK8API/src/cn/bruce/java/LambdaTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDK8API/src/cn/bruce/java1/ConstructorRefTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDK8API/src/cn/bruce/java1/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDK8API/src/cn/bruce/java1/EmployeeData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDK8API/src/cn/bruce/java1/MethodRefTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDK8API/src/cn/bruce/java2/StreamAPITest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDK8API/src/cn/bruce/java2/StreamAPITest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDK8API/src/cn/bruce/java2/StreamAPITest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDK8API/src/cn/bruce/java3/Boy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDK8API/src/cn/bruce/java3/Girl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDK8API/src/cn/bruce/java3/GirlBoyOptionalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDK8API/src/cn/bruce/java3/OptionalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSenior.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflection/Reflection.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflection/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflection/src/cn/bruce/java/ClassLoaderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflection/src/cn/bruce/java/NewInstanceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflection/src/cn/bruce/java/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflection/src/cn/bruce/java/ReflectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflection/src/cn/bruce/java1/Creature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflection/src/cn/bruce/java1/MyAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflection/src/cn/bruce/java1/MyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflection/src/cn/bruce/java1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflection/src/cn/bruce/java2/FiledTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflection/src/cn/bruce/java2/MethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflection/src/cn/bruce/java2/OtherTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflection/src/cn/bruce/java2/ReflectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflection/src/cn/bruce/java3/AOPTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflection/src/cn/bruce/java3/ProxyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflection/src/cn/bruce/java3/StaticProxyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflection/src/jdbc1.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/Thread.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/com/bruce/exer/RunnableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/com/bruce/exer/ThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/com/bruce/exer/ThreadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/com/bruce/java/CallableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/com/bruce/java/CommunicationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/com/bruce/java/LockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/com/bruce/java/PoolTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/com/bruce/java/SingleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/com/bruce/java/Ticket1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/com/bruce/java/Ticket2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/com/bruce/java/Ticket3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/com/bruce/java/Ticket4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UsualMethod/UsualMethod.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UsualMethod/src/com/bruce/exer/Exer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UsualMethod/src/com/bruce/java/ComparableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UsualMethod/src/com/bruce/java/DateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UsualMethod/src/com/bruce/java/Goods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UsualMethod/src/com/bruce/java/JDK8TimeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UsualMethod/src/com/bruce/java/StringBufferTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UsualMethod/src/com/bruce/java/StringChangeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UsualMethod/src/com/bruce/java/StringMethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AnnotationAndGenericity/com/bruce/java/AnnotationTest$Info.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AnnotationAndGenericity/com/bruce/java/AnnotationTest$Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AnnotationAndGenericity/com/bruce/java/AnnotationTest$Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AnnotationAndGenericity/com/bruce/java/AnnotationTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AnnotationAndGenericity/com/bruce/java/EnumTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AnnotationAndGenericity/com/bruce/java/Info.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AnnotationAndGenericity/com/bruce/java/MyAnnotation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AnnotationAndGenericity/com/bruce/java/MyAnnotations.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AnnotationAndGenericity/com/bruce/java/Season.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AnnotationAndGenericity/com/bruce/java/Season1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AnnotationAndGenericity/com/bruce/java/Season1$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AnnotationAndGenericity/com/bruce/java/Season1$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AnnotationAndGenericity/com/bruce/java/Season1$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AnnotationAndGenericity/com/bruce/java/Season1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AnnotationAndGenericity/com/bruce/java/SeasonTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Collection/META-INF/Collection.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Collection/cn/bruce/exer/Exer1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Collection/cn/bruce/exer/Exer2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Collection/cn/bruce/exer/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Collection/cn/bruce/exer1/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Collection/cn/bruce/exer1/EmployeeTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Collection/cn/bruce/exer1/EmployeeTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Collection/cn/bruce/exer1/MyDate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Collection/cn/bruce/java/CollectionTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Collection/cn/bruce/java/ForeachTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Collection/cn/bruce/java/IteratorTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Collection/cn/bruce/java/LinkedArrayListTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Collection/cn/bruce/java/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Collection/cn/bruce/java1/SetTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Collection/cn/bruce/java1/TreeSetTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Collection/cn/bruce/java1/TreeSetTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Collection/cn/bruce/java1/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Collection/cn/bruce/java2/CollectionsTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Collection/cn/bruce/java2/MapTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Collection/cn/bruce/java2/TreeMapTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Collection/cn/bruce/java2/TreeMapTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Collection/cn/bruce/java2/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Generic/cn/bruce/exer/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Generic/cn/bruce/exer/EmployeeTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Generic/cn/bruce/exer/EmployeeTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Generic/cn/bruce/exer/MyDate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Generic/cn/bruce/java/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Generic/cn/bruce/java/DemoInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Generic/cn/bruce/java/Father.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Generic/cn/bruce/java/GenericTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Generic/cn/bruce/java/GenericTest1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Generic/cn/bruce/java/Order.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Generic/cn/bruce/java/Son1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Generic/cn/bruce/java/Son2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Generic/cn/bruce/java/Son3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Generic/cn/bruce/java/Son4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IO/META-INF/IO.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IO/cn/bruce/exer/FileDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IO/cn/bruce/exer/FindJPGFileTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IO/cn/bruce/exer/FindJPGFileTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IO/cn/bruce/exer/ListFileTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IO/cn/bruce/exer/PicTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IO/cn/bruce/exer/WordCount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IO/cn/bruce/java/BufferedTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IO/cn/bruce/java/FileCopyTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IO/cn/bruce/java/FileInputOutpytSteam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IO/cn/bruce/java/FileReaderWriter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IO/cn/bruce/java/FileTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IO/cn/bruce/java/InputSteamReaderTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IO/cn/bruce/java/OtherSteam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IO/cn/bruce/java1/Account.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IO/cn/bruce/java1/ObjectInputOutSteamTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IO/cn/bruce/java1/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IO/cn/bruce/java1/RandomAccessFileTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IO/cn/bruce/java3/PathTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JDK8API/META-INF/JDK8API.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JDK8API/cn/bruce/java/LambdaTest1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JDK8API/cn/bruce/java/LambdaTest1$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JDK8API/cn/bruce/java/LambdaTest1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JDK8API/cn/bruce/java/LambdaTest2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JDK8API/cn/bruce/java/LambdaTest2$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JDK8API/cn/bruce/java/LambdaTest2$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JDK8API/cn/bruce/java/LambdaTest2$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JDK8API/cn/bruce/java/LambdaTest2$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JDK8API/cn/bruce/java/LambdaTest2$6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JDK8API/cn/bruce/java/LambdaTest2$7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JDK8API/cn/bruce/java/LambdaTest2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JDK8API/cn/bruce/java/LambdaTest3$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JDK8API/cn/bruce/java/LambdaTest3$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JDK8API/cn/bruce/java/LambdaTest3$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JDK8API/cn/bruce/java/LambdaTest3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JDK8API/cn/bruce/java1/ConstructorRefTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JDK8API/cn/bruce/java1/ConstructorRefTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JDK8API/cn/bruce/java1/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JDK8API/cn/bruce/java1/EmployeeData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JDK8API/cn/bruce/java1/MethodRefTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JDK8API/cn/bruce/java1/MethodRefTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JDK8API/cn/bruce/java2/StreamAPITest1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JDK8API/cn/bruce/java2/StreamAPITest2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JDK8API/cn/bruce/java2/StreamAPITest3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JDK8API/cn/bruce/java3/Boy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JDK8API/cn/bruce/java3/Girl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JDK8API/cn/bruce/java3/GirlBoyOptionalTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JDK8API/cn/bruce/java3/OptionalTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Reflection/cn/bruce/java/ClassLoaderTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Reflection/cn/bruce/java/NewInstanceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Reflection/cn/bruce/java/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Reflection/cn/bruce/java/ReflectionTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Reflection/cn/bruce/java1/Creature.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Reflection/cn/bruce/java1/MyAnnotation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Reflection/cn/bruce/java1/MyInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Reflection/cn/bruce/java1/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Reflection/cn/bruce/java2/FiledTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Reflection/cn/bruce/java2/MethodTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Reflection/cn/bruce/java2/OtherTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Reflection/cn/bruce/java2/ReflectionTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Reflection/cn/bruce/java3/AOPTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Reflection/cn/bruce/java3/ClothFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Reflection/cn/bruce/java3/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Reflection/cn/bruce/java3/DogUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Reflection/cn/bruce/java3/Human.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Reflection/cn/bruce/java3/HuntingDog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Reflection/cn/bruce/java3/MyInvocationHandler1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Reflection/cn/bruce/java3/MyInvocationHanlder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Reflection/cn/bruce/java3/MyProxyFactory1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Reflection/cn/bruce/java3/NikeClothFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Reflection/cn/bruce/java3/ProxyClothFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Reflection/cn/bruce/java3/ProxyFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Reflection/cn/bruce/java3/ProxyTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Reflection/cn/bruce/java3/StaticProxyTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Reflection/cn/bruce/java3/SuperMan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Reflection/jdbc1.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/StringTest/com/bruce/exer/Exer1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/StringTest/com/bruce/java/StringBufferTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/StringTest/com/bruce/java/StringChangeTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/StringTest/com/bruce/java/StringMethodTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/META-INF/Thread.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/bruce/exer/MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/bruce/exer/MyThread1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/bruce/exer/MyThread2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/bruce/exer/RunnableTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/bruce/exer/ThreadDemo$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/bruce/exer/ThreadDemo$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/bruce/exer/ThreadDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/bruce/exer/ThreadTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/bruce/exer/test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/bruce/java/CallableTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/bruce/java/CommunicationTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/bruce/java/LockTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/bruce/java/MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/bruce/java/NumThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/bruce/java/NumberThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/bruce/java/NumberThread1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/bruce/java/PoolTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/bruce/java/SingleTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/bruce/java/Ticket1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/bruce/java/Ticket2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/bruce/java/Ticket3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/bruce/java/Ticket4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/bruce/java/TicketTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/bruce/java/TicketTest2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/bruce/java/TicketTest3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/bruce/java/TicketTest4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Thread/com/bruce/java/Windows.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/UsualMethod/META-INF/UsualMethod.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/UsualMethod/com/bruce/exer/Exer1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/UsualMethod/com/bruce/java/ComparableTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/UsualMethod/com/bruce/java/DateTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/UsualMethod/com/bruce/java/Goods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/UsualMethod/com/bruce/java/JDK8TimeTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/UsualMethod/com/bruce/java/StringBufferTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/UsualMethod/com/bruce/java/StringChangeTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/UsualMethod/com/bruce/java/StringMethodTest.class" afterDir="false" />
+    <list default="true" id="b4c46275-02c0-43bd-8780-d64c5ac7c1e2" name="Default Changelist" comment="Java高级部分的代码示例">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -373,7 +68,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -573,8 +268,16 @@
       <workItem from="1588849401114" duration="9959000" />
       <workItem from="1588897275955" duration="8701000" />
       <workItem from="1588906027157" duration="414000" />
-      <workItem from="1589158603732" duration="2362000" />
+      <workItem from="1589158603732" duration="2868000" />
     </task>
+    <task id="LOCAL-00001" summary="Java高级部分的代码示例">
+      <created>1589161301930</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589161301930</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -621,10 +324,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="115" y="162" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586933353567" />
-    <state x="281" y="3" key="CommitChangelistDialog2" timestamp="1589161199335">
+    <state x="281" y="3" key="CommitChangelistDialog2" timestamp="1589161574126">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="281" y="3" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1589161199335" />
+    <state x="281" y="3" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1589161574126" />
     <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1587111573062">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -677,10 +380,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="349" y="147" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1587274344119" />
-    <state x="270" y="0" key="SettingsEditor" timestamp="1588906135348">
+    <state x="270" y="0" key="SettingsEditor" timestamp="1589161326965">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588906135348" />
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589161326965" />
     <state x="874" y="160" width="543" height="524" key="StructurePopup" timestamp="1588573254066">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

@@ -59,7 +59,6 @@ public class Employee implements Comparable {
                 ", brithday=" + brithday +
                 '}';
     }
-
     @Override
     public int compareTo(Object o) {
         if (o instanceof Employee){
@@ -68,4 +67,5 @@ public class Employee implements Comparable {
         }
         throw new RuntimeException("传入的数据类型不一致");
     }
+
 }

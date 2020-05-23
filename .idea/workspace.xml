@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4c46275-02c0-43bd-8780-d64c5ac7c1e2" name="Default Changelist" comment="Java高级部分的代码示例">
+    <list default="true" id="b4c46275-02c0-43bd-8780-d64c5ac7c1e2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/cn/bruce/exer/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/cn/bruce/exer/Employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +49,12 @@
         <option name="userSettingsFile" value="E:\developer_tools\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1aG2xZF3G3Fk2sW1He8vHwtzQBL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -69,7 +76,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Rainbow Brackets" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -168,53 +175,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="AnnotationAndEnum" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="AnnotationAndEnum" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.GirlBoyOptionalTest.test1" />
@@ -269,7 +229,9 @@
       <workItem from="1588849401114" duration="9959000" />
       <workItem from="1588897275955" duration="8701000" />
       <workItem from="1588906027157" duration="414000" />
-      <workItem from="1589158603732" duration="3411000" />
+      <workItem from="1589158603732" duration="4026000" />
+      <workItem from="1590155271142" duration="1223000" />
+      <workItem from="1590157404406" duration="2337000" />
     </task>
     <task id="LOCAL-00001" summary="Java高级部分的代码示例">
       <created>1589161301930</created>
@@ -285,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589161607994</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Java高级部分的代码示例">
+      <created>1589162166195</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589162166195</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -340,6 +309,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="722" y="74" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1588143513289" />
+    <state x="361" y="71" key="#Menus_and_Toolbars" timestamp="1590157757866">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Menus_and_Toolbars/0.0.1536.824@0.0.1536.824" timestamp="1590157757866" />
     <state x="361" y="71" key="#Notifications" timestamp="1589161945819">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -348,6 +321,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1587869851460" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590157481572">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1590157481572" />
     <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser" timestamp="1588904377364">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -368,10 +345,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="115" y="162" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586933353567" />
-    <state x="281" y="3" key="CommitChangelistDialog2" timestamp="1589162073616">
+    <state x="281" y="3" key="CommitChangelistDialog2" timestamp="1590216520288">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="281" y="3" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1589162073616" />
+    <state x="281" y="3" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1590216520288" />
     <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1587111573062">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -428,10 +405,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="444" y="123" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1589161903904" />
-    <state x="270" y="0" key="SettingsEditor" timestamp="1589161326965">
+    <state x="270" y="0" key="SettingsEditor" timestamp="1590158216878">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589161326965" />
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590158216878" />
     <state x="874" y="160" width="543" height="524" key="StructurePopup" timestamp="1588573254066">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

@@ -18,7 +18,7 @@ public class JDK8TimeTest {
      * LocalDate/LocalTime/LocalDateTime类
      */
     @Test
-    public void test1(){
+    public void test1() {
         //now():获取当前的日期、时间、日期时间
         LocalDate localDate = LocalDate.now();
         LocalTime localTime = LocalTime.now();
@@ -29,7 +29,7 @@ public class JDK8TimeTest {
         System.out.println(localDateTime);//2020-04-21T18:52:54.929
 
         //of():设置指定的年、月、日、时、分、秒。没有偏移量
-        LocalDateTime localDateTime1 = LocalDateTime.of(2020,10,6,12,13,12);
+        LocalDateTime localDateTime1 = LocalDateTime.of(2020, 10, 6, 12, 13, 12);
         System.out.println(localDateTime1);//2020-10-06T12:13:12
 
         //getXxx()：获取相关的属性
@@ -63,7 +63,7 @@ public class JDK8TimeTest {
      * instant时间瞬时点
      */
     @Test
-    public void test2(){
+    public void test2() {
         //now():获取本初子午线对应的标准时间
         Instant instant = Instant.now();
         System.out.println(instant);//2020-04-21T11:03:21.469Z
@@ -82,7 +82,7 @@ public class JDK8TimeTest {
     }
 
     @Test
-    public void test3(){
+    public void test3() {
         //        方式一：预定义的标准格式。
         //        如：ISO_LOCAL_DATE_TIME;ISO_LOCAL_DATE;ISO_LOCAL_TIME
         DateTimeFormatter formatter = DateTimeFormatter.ISO_LOCAL_DATE_TIME;
